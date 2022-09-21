@@ -1,0 +1,57 @@
+<ey-methodology id="SL70284831-912927" otherprops="listed-companies" product="PCAOB">
+	<title>Appendix 4: Communication requirements for NYSE listed entities</title>
+	<titlealts xml:lang="en">
+		<navtitle>Appendix 4: Communication requirements for NYSE listed entities</navtitle>
+		<searchtitle>COMMS Appendix 4: Communication requirements for NYSE listed entities</searchtitle>
+	</titlealts>
+	<ey-methodology-prolog>
+		<industry/>
+		<subject-term/>
+		<meta-topic id="SL70284832-912927"/>
+		<client-access datatype="xs:boolean" value="0">No</client-access>
+		<content-category datatype="mms:contentCategoryType" value="40357b61-b46b-46bd-be3a-a3878178b1c5">EY Guidance and Policies</content-category>
+		<copyright/>
+		<document-status datatype="mms:documentStatusType" value="4851ea27-f30d-419e-971c-ebe631933d07">Final</document-status>
+		<effective-date/>
+		<focus datatype="mms:focusType" value="472f83e9-d89a-4e89-af8a-603cef10f04a">Auditing</focus>
+		<ey-id datatype="xs:string">GAM COMMS Appendix 4</ey-id>
+		<index-for-search datatype="xs:boolean" value="1">Yes</index-for-search>
+		<issuing-organization datatype="mms:issuingOrganizationType" value="05d89ee3-23b7-40ae-811d-fe8179f9e709">EY (Global)</issuing-organization>
+		<language datatype="mms:languageType" value="b60d40cb-1f3b-41f4-8f62-e9a8c5735c7a">English</language>
+		<major-publication-flag datatype="xs:boolean" value="1">Yes</major-publication-flag>
+		<major-publication-date datatype="xs:date" format="RTF" value="2019.05.22">2019.05.22</major-publication-date>
+		<service-line datatype="mms:ServiceLineType" value="7f257f03-9108-4cac-9099-8d21fe0374d3">Audit and Accounting Services</service-line>
+		<translation-source/>
+		<translation-source-object-id/>
+		<local-action/>
+		<checked-out-by/>
+		<object-id datatype="xs:string">1_330403435</object-id>
+		<version-date datatype="xs:datetime" format="RTF" value="2019.05.21T20:05:17Z">2019.05.21T20:05:17Z</version-date>
+		<version-status datatype="xs:string">WIP</version-status>
+		<versionset-id datatype="xs:string">912927</versionset-id>
+		<other-data datatype="vsid" name="ParentCollection" value="C_25358874"/>
+	</ey-methodology-prolog>
+	<paras>
+		<requirement id="SL22513865-912927">
+			<p id="SL22513866-912927">For audits of NYSE listed entities, NYSE rules require that the audit committee obtain and review:
+				<fn callout="1" id="SL22513867-912927">
+					<p id="SL22513868-912927"> NYSE Corporate Governance Rules – Section 303A</p>
+				</fn>
+				<ul id="SL22513869-912927">
+					<li id="SL22513870-912927">
+						<p id="SL22513871-912927">At least annually, a report from us describing our firm’s quality control procedures</p>
+					</li>
+					<li id="SL22513872-912927">
+						<p id="SL22513873-912927">A report from us describing any material issues raised by the most recent internal quality control review or peer review of the firm, or any inquiry or investigation by governmental or professional authorities, within the preceding five years, in respect of one or more independent audits carried out by the firm, and any steps taken to deal with such issues </p>
+					</li>
+					<li id="SL22513874-912927">
+						<p id="SL22513875-912927">At least annually, a report from us describing all relationships between us and the entity.</p>
+					</li>
+				</ul>
+			</p>
+		</requirement>
+		<p id="SL22513876-912927">We refer to the 
+			<xref href="1002742" id="SL158513588-912927">Audit committee supplemental topics</xref> for our most recent report on quality control for audit committees and other stakeholders when communicating to those charged with governance our firm’s quality control procedures and material issues regarding the quality of our practice within the preceding five years.
+		</p>
+	</paras>
+</ey-methodology>
